@@ -1,3 +1,9 @@
+/** 
+ * @module clients 
+ * @preferred
+ * 
+*/
+
 export { DataDogLogClient } from './DataDogLogClient';
 export { DataDogLogMessage } from './DataDogLogMessage';
 export { DataDogStatus } from './DataDogStatus';

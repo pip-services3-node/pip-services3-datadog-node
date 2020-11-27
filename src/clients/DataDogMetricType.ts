@@ -1,3 +1,5 @@
+/** @module clients */
+
 export class DataDogMetricType {
     public static readonly Gauge: string = "gauge";
     public static readonly Count: string = "count";

@@ -1,3 +1,4 @@
+/** @module clients */
 const _ = require('lodash');
 
 import { ConfigParams } from 'pip-services3-commons-node';

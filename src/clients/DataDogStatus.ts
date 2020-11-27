@@ -1,3 +1,5 @@
+/** @module clients */
+
 export class DataDogStatus {
     public static readonly Emergency: string = "EMERGENCY";
     public static readonly Error: string = "ERROR";

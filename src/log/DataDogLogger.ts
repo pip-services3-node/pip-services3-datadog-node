@@ -27,7 +27,7 @@ import { DataDogLogClient } from '../clients/DataDogLogClient';
  * - level:             maximum log level to capture
  * - source:            source (context) name
  * - connection:
- *     - discovery_key:         (optional) a key to retrieve the connection from [[https://rawgit.com/pip-services-node/pip-services3-components-node/master/doc/api/interfaces/connect.idiscovery.html IDiscovery]]
+ *     - discovery_key:         (optional) a key to retrieve the connection from [[https://pip-services3-node.github.io/pip-services3-components-node/interfaces/connect.idiscovery.html IDiscovery]]
  *     - protocol:              (optional) connection protocol: http or https (default: https)
  *     - host:                  (optional) host name or IP address (default: http-intake.logs.datadoghq.com)
  *     - port:                  (optional) port number (default: 443)
@@ -43,8 +43,8 @@ import { DataDogLogClient } from '../clients/DataDogLogClient';
  * 
  * ### References ###
  * 
- * - <code>\*:context-info:\*:\*:1.0</code>      (optional) [[https://rawgit.com/pip-services-node/pip-services3-components-node/master/doc/api/classes/info.contextinfo.html ContextInfo]] to detect the context id and specify counters source
- * - <code>\*:discovery:\*:\*:1.0</code>         (optional) [[https://rawgit.com/pip-services-node/pip-services3-components-node/master/doc/api/interfaces/connect.idiscovery.html IDiscovery]] services to resolve connection
+ * - <code>\*:context-info:\*:\*:1.0</code>      (optional) [[https://pip-services3-node.github.io/pip-services3-components-node/classes/info.contextinfo.html ContextInfo]] to detect the context id and specify counters source
+ * - <code>\*:discovery:\*:\*:1.0</code>         (optional) [[https://pip-services3-node.github.io/pip-services3-components-node/interfaces/connect.idiscovery.html IDiscovery]] services to resolve connection
  * 
  * ### Example ###
  * 

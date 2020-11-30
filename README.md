@@ -3,7 +3,7 @@
 This module is a part of the [Pip.Services](http://pipservices.org) polyglot microservices toolkit.
 It contains the DataDog logger and performance counters components.
 
-This module contains the following packages:
+The module contains the following packages:
 - **Build**
 - **Clients**
 - **Count**

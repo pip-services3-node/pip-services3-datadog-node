@@ -1,5 +1,7 @@
 "use strict";
+/** @module clients */
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.DataDogStatus = void 0;
 class DataDogStatus {
 }
 exports.DataDogStatus = DataDogStatus;

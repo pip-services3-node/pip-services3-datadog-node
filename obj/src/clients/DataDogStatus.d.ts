@@ -1,3 +1,4 @@
+/** @module clients */
 export declare class DataDogStatus {
     static readonly Emergency: string;
     static readonly Error: string;

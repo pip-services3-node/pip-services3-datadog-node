@@ -1,5 +1,7 @@
 "use strict";
+/** @module clients */
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.DataDogMetricsClient = void 0;
 const _ = require('lodash');
 const pip_services3_commons_node_1 = require("pip-services3-commons-node");
 const pip_services3_commons_node_2 = require("pip-services3-commons-node");

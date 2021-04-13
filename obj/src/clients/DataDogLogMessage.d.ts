@@ -1,3 +1,4 @@
+/** @module clients */
 export declare class DataDogLogMessage {
     time?: Date;
     tags?: any;

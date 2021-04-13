@@ -1,3 +1,4 @@
+/** @module clients */
 export declare class DataDogMetricType {
     static readonly Gauge: string;
     static readonly Count: string;

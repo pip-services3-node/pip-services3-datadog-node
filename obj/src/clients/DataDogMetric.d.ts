@@ -1,3 +1,4 @@
+/** @module clients */
 import { DataDogMetricPoint } from './DataDogMetricPoint';
 export declare class DataDogMetric {
     metric: string;

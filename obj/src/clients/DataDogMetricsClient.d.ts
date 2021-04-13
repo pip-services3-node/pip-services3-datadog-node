@@ -1,3 +1,4 @@
+/** @module clients */
 import { ConfigParams } from 'pip-services3-commons-node';
 import { IReferences } from 'pip-services3-commons-node';
 import { RestClient } from 'pip-services3-rpc-node';

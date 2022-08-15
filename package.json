@@ -1,5 +1,5 @@
 {
-    "name": "pip-services-datadog-node",
+    "name": "pip-services3-datadog-node",
     "version": "3.0.0",
     "author": "Conceptual Vision Consulting LLC",
     "description": "DataDog components for Pip.Services in Node.js",

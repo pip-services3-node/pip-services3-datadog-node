@@ -1,6 +1,6 @@
 {
     "name":  "pip-services3-datadog-node",
-    "type": "microservice",
+    "type": "module",
     "language": "node",
     "version": "3.0.0",
     "build": 0,
